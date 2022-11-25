@@ -7,7 +7,7 @@
 - To register in the bot, you just send !register in the DM of the bot.
 - When you register in the bot, the only data we collect is your Discord ID and Channel ID with the bot.
 - The bot does not collect any data of any person who is not registered in the bot.
-- You can always unregister from the bot using the command /unregister.
+- You can always unregister from the bot using the command !unregister.
 - We don't store any messages in our database, even from the registered people.
 
 ## Transparency
