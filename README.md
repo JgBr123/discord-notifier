@@ -1,5 +1,6 @@
 # DISCLAIMER
 
+- **This bot is not official and is not associated with any person in the Banano official team.**
 - This bot was made only to notify people when a giveaway is happening in the Banano Server.
 - This bot can't send messages in the Banano Server and never will.
 - This bot can only send messages in the DM of people who registered in the bot previously.
